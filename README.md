@@ -1,6 +1,6 @@
 # VamPixel
 
-![GitHub Logo](assets/banner.jpg)
+![GitHub Logo](assets/img/menu.png)
 
 Game developed for web with phaser framework in the Graduate studies course in electronic game development at the University of the State of Amazonas - UEA.
 
