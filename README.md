@@ -26,6 +26,6 @@ You can't resist your thirst for blood, can you?
 ### Controls
 
 
-[Play it](https://fernandodantasfilho.github.io/vampixel-platform/)
+[Play it](https://fernandodantasfilho.github.io/vampixel_platform/)
 
 MIT Licensed
